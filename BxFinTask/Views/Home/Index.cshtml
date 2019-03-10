@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<main ng-controller="llArrayCalcController as vm">
+    <form name="arrayCalcForm" role="form" novalidate>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    Array Calculation</h4>
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="form-group col-md-3 col-sm-3">
+                        <label class="pushT5" for="ActionType">Product Id</label>
+                        <div class="input-group">
+                            <input type="number" class="form-control" placeholder="Add product id to array" ng-model="vm.value">
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" type="button" ng-disabled="vm.value === null" ng-click="vm.add(vm.value)">Add</button>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="form-group col-md-3 col-sm-3">
+                        <label class="pushT5" for="Position">Position</label>
+                        <input type="number" class="form-control" placeholder="Enter position to delete product id" ng-model="vm.position">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4 class="border-orange-t pull10-0">Input: <small>{{vm.arrayInput}}</small>
+                </h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4 class="border-orange-t pull10-0">Result: <small>{{vm.arrayCalcResult}}</small></h4>
+                    </div>
+                </div>
+                <div class="row border-grey-t1 pullT">
+                    <div class="col-md-12">
+                        <button type="button" ng-click="vm.reverse()" ng-disabled="arrayCalcForm.$invalid || arrayCalcForm.$pristine || !vm.arrayInput || vm.loading" class="btn btn-primary">Reverse</button>
+                        <button type="button" ng-click="vm.deletepart()" ng-disabled="arrayCalcForm.$invalid || arrayCalcForm.$pristine || !vm.arrayInput || !vm.position || vm.loading" class="btn btn-danger">Delete</button>
+                        <a href="" ng-click="vm.reset()" ng-disabled="vm.loading" class="btn btn-link">Reset</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </form>
+</main>

@@ -1,0 +1,5 @@
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Service.Contract\bin\Debug\DataHelper.Service.Contract.dll
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Service.Contract\bin\Debug\DataHelper.Service.Contract.pdb
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Service.Contract\obj\Debug\DataHelper.Service.Contract.csproj.CoreCompileInputs.cache
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Service.Contract\obj\Debug\DataHelper.Service.Contract.dll
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Service.Contract\obj\Debug\DataHelper.Service.Contract.pdb

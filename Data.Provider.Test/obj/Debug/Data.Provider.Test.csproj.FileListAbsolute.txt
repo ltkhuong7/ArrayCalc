@@ -1,0 +1,14 @@
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\bin\Debug\Data.Provider.Test.dll
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\bin\Debug\Data.Provider.Test.pdb
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\bin\Debug\DataHelper.Provider.dll
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\bin\Debug\nunit.framework.dll
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\bin\Debug\DataHelper.Provider.Contract.dll
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\bin\Debug\DataHelper.Provider.pdb
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\bin\Debug\nunit.framework.pdb
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\bin\Debug\nunit.framework.xml
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\bin\Debug\DataHelper.Provider.Contract.pdb
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\obj\Debug\Data.Provider.Test.csprojAssemblyReference.cache
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\obj\Debug\Data.Provider.Test.csproj.CoreCompileInputs.cache
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\obj\Debug\Data.Provider.Test.csproj.CopyComplete
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\obj\Debug\Data.Provider.Test.dll
+F:\MyStuffs\Demo\BxFinTask\Data.Provider.Test\obj\Debug\Data.Provider.Test.pdb

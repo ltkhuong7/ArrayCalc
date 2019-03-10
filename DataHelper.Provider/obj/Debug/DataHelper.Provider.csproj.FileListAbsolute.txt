@@ -1,0 +1,9 @@
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Provider\bin\Debug\DataHelper.Provider.dll
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Provider\bin\Debug\DataHelper.Provider.pdb
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Provider\bin\Debug\DataHelper.Provider.Contract.dll
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Provider\bin\Debug\DataHelper.Provider.Contract.pdb
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Provider\obj\Debug\DataHelper.Provider.csprojAssemblyReference.cache
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Provider\obj\Debug\DataHelper.Provider.csproj.CoreCompileInputs.cache
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Provider\obj\Debug\DataHelper.Provider.csproj.CopyComplete
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Provider\obj\Debug\DataHelper.Provider.dll
+F:\MyStuffs\Demo\BxFinTask\DataHelper.Provider\obj\Debug\DataHelper.Provider.pdb

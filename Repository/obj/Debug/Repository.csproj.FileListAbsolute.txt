@@ -1,0 +1,5 @@
+F:\MyStuffs\Demo\BxFinTask\Repository\bin\Debug\Repository.dll
+F:\MyStuffs\Demo\BxFinTask\Repository\bin\Debug\Repository.pdb
+F:\MyStuffs\Demo\BxFinTask\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+F:\MyStuffs\Demo\BxFinTask\Repository\obj\Debug\Repository.dll
+F:\MyStuffs\Demo\BxFinTask\Repository\obj\Debug\Repository.pdb
